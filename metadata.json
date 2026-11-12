@@ -1,0 +1,8 @@
+{
+  "name": "StyleSense AI",
+  "description": "Intelligently curated fashion, personal AI styling, complete outfit building, digital wardrobe management, and local fashion care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
